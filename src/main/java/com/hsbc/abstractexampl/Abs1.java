@@ -7,5 +7,6 @@ abstract class Abs1
 	abstract public void funA();
 	void funB(){
 	System.out.println("funB() of class Abs1");
+		System.out.println("funB() of class Abs2");
 	}
 }
